@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "492201569771",
+    "project_id": "com-csr-chat-app",
+    "storage_bucket": "com-csr-chat-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492201569771:android:e960b2c5097a0addc9bdae",
+        "android_client_info": {
+          "package_name": "com.csr.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAElIg45vH_zhcWoQoxhAvJRl7Q9hY_8Ow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
